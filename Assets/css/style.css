@@ -1,0 +1,58 @@
+.navbar-toggler {
+    width: 59px;
+    height: 42px;
+    }
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 24px;
+    height: 16px;
+    }
+
+.bg-success {
+    background-color: #28A745;
+    }
+
+body{
+    font-family: 'roboto ligth';
+    }
+
+.text-white {
+    font-family: roboto medium;
+    font-weight: 24px;
+    }
+
+.card-body-precios {
+    text-align-last: right;
+    }
+
+a {
+    color: #0d6efd;
+    text-decoration: none;
+    font-weight: 20px;
+    }
+
+.fa-map-marker-alt {
+    size: 13px;    
+}
+
+.text-secondary-2 {
+	font-size: 13px;
+	color: #707070;
+	font-weight: 80;
+}
+
+.text-secondary{
+	font-weight: 80;
+	color: #707070;
+	margin: 0;
+}
+
+.text-success{
+	font-size: 20px;
+	font-weight: 62px;
+}
+
+
+
+
